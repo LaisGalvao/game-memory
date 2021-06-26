@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Laís",
+      "email": "laisgbueno62@gmail.com",
+      "senha": "72637263",
+      "repetirsenha": "72637263",
+      "token": "ASD-1234"
+    },
+    {
+      "name": "Gustavo",
+      "email": "gr219436@gmail.com",
+      "senha": "12341234",
+      "repetirsenha": "12341234",
+      "token": "ASD-5678"
+    },
+    {
+      "name": "Alessandro",
+      "email": "alessandroramos010@gmail.com",
+      "senha": "56785678",
+      "repetirsenha": "56785678",
+      "token": "ASD-8901"
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "laisgbueno62@gmail.com",
+      "senha": "72637263"
+    },
+    {
+      "id": 2,
+      "email": "gr219436@gmail.com",
+      "senha": "12341234"
+    },
+    {
+      "id": 3,
+      "email": "alessandroramos010@gmail.com",
+      "senha": "56785678"
+    },
+    {
+      "email": "laisgbueno62@gmail.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 4
+    },
+    {
+      "email": "laisgbueno62@gmail.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 5
+    },
+    {
+      "email": "laisgbueno62@ter.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 6
+    },
+    {
+      "email": "laisgbueno62@try.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 7
+    },
+    {
+      "email": "laisgbueno62@gmail.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 8
+    },
+    {
+      "email": "laisgbueno62@gmail.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 9
+    },
+    {
+      "email": "laisgbuenoa@fs",
+      "senha": "",
+      "password": "345",
+      "id": 10
+    },
+    {
+      "email": "laisgbueno62@gmail.com",
+      "senha": "",
+      "password": "72637263",
+      "id": 11
+    },
+    {
+      "email": "laisgbueno62@sdfd",
+      "senha": "",
+      "password": "234",
+      "id": 12
+    },
+    {
+      "email": "celso@gmail",
+      "senha": "",
+      "password": "123",
+      "id": 13
+    },
+    {
+      "email": "laisgbueno62@gmail.com",
+      "senha": "",
+      "password": "dsf",
+      "id": 14
+    }
+  ]
+}
