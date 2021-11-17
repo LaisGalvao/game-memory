@@ -6,7 +6,7 @@ import Register from "@/components/Forms/Register"
 import PassRecover from "@/components/Forms/PassRecover"
 import NewPass from "@/components/Forms/NewPass"
 import Game from "@/components/Game"
-import firebase from "firebase"
+//import firebase from "firebase"
 Vue.use(Router)
 
 const routes = [
@@ -14,7 +14,7 @@ const routes = [
     path: "*",
     redirect: "/"
   },
- 
+
     {
       path: '/',
       name: 'HelloWorld',
@@ -56,6 +56,7 @@ const router = new Router({
   routes,
 });
 
+/*
 router.beforeEach((to, from, next) => {
   const currentUser = firebase.auth().currentUser;
   const requiresAuth = to.matched.some(record => record.meta.requiresAuth)
@@ -63,5 +64,5 @@ router.beforeEach((to, from, next) => {
   else if (requiresAuth && !currentUser) next("init");
   else next();
 })
-
+*/
 export default router;
