@@ -1,6 +1,6 @@
 # game-memory-app
 
-> SISTEMA DE GAMIFICAÇÃO EM TRATAMENTOS DE DOENÇAS RELACIONADAS A MEMÓRIA
+> SISTEMA DE GAMIFICAÇÃO EM TRATAMENTOS DE DOENÇAS RELACIONADAS A MEMÓRIA.
 > O app está temporariamente fora do ar, estamos migrando de plataformas!
 
 ## Build Setup
