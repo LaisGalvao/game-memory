@@ -1,7 +1,7 @@
 # game-memory-app
 
 > SISTEMA DE GAMIFICAÇÃO EM TRATAMENTOS DE DOENÇAS RELACIONADAS A MEMÓRIA
-> Você pode acompanhar o app em https://app-memory-cbd72.web.app
+> O app está temporariamente fora do ar, estamos migrando de plataformas!
 
 ## Build Setup
 
