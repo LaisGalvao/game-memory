@@ -56,31 +56,20 @@
 
 <script>
 import router from "../router";
-import firebase from "firebase";
+/* import firebase from "firebase"; */
 export default {
   router: router,
   data() {
     return {
       email: "",
-      senha: ""
+      senha: "",
     };
   },
   methods: {
     login() {
-      /*firebase
-        .auth()
-        .signInWithEmailAndPassword(this.email, this.senha)
-        .then(
-          user => {
-            this.$router.replace("init");
-          },
-          err => {
-            alert("Ops! Algo inesperado aconteceu!", err);
-          }
-        ); */
-        this.$router.replace({name: "init"})
-    }
-  }
+      this.$router.replace({ name: "init" });
+    },
+  },
 };
 </script>
 <style scoped>
@@ -93,8 +82,7 @@ export default {
   height: 100px;
 }
 #jumbo-login {
-  background: url("../assets/game-memory-banner.png") no-repeat
-    fixed center;
+  background: url("../assets/game-memory-banner.png") no-repeat fixed center;
   background-size: cover;
   height: 60vh;
 }
