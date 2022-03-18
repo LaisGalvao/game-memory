@@ -3,7 +3,7 @@
 > SISTEMA DE GAMIFICAÇÃO EM TRATAMENTOS DE DOENÇAS RELACIONADAS À MEMÓRIA.
 > Estamos migrando de plataformas para entregar melhores resultados!
 
-## Você pode acompanhar o progresso desse projeto nesse link: https://peaceful-sammet-502f0d.netlify.app/
+## Você pode acompanhar o progresso desse projeto nesse link: https://gamememoryproject.netlify.app/
 
 ## Build Setup
 
