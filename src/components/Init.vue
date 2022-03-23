@@ -4,7 +4,7 @@
 
     <h1>Olá {user}, seja bem vindo(a)!</h1>
 
-     <b-button pill 
+     <b-button pill
      variant="success"
      class="btn-img"
     style="width: 90px; height: 90px;"
@@ -16,7 +16,7 @@
 
        <br>
        <br>
-  
+
   </div>
    <TabBar />
 </div>
@@ -35,9 +35,12 @@ export default {
 <style scoped>
 
 .init-bg{
-  background: url('../assets/740bbaa10cd617aac4a996811badd66a.gif') no-repeat fixed center;
-  background-size: cover; 
+  /*../assets/740bbaa10cd617aac4a996811badd66a.gif*/
+  background: url('../assets/game-memory-banner.png ') no-repeat fixed center;
+  filter: brightness(70%);
+  background-size: cover;
   height: 80vh;
+  z-index: 1;
 }
 
 .btn{
@@ -47,7 +50,7 @@ export default {
 
 .btn-img{
   background-image: url('../assets/green-play-button-icon.png');
-    background-size: cover; 
+    background-size: cover;
     width: 60px;
     height: 60px;
 }
